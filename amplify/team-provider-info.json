@@ -17,6 +17,9 @@
       },
       "api": {
         "rschildrenchorus": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
